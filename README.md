@@ -75,7 +75,7 @@ Note: Performance Score is calculated as .
 ## 6. Team Members & Contributions
 
 * **黃麗穎 (B103012034):** Algorithm Development, RTL Coding, Circuit Synthesis, and Waveform Debugging.
-* **葉米亞 (B103015019):** Algorithm Development, RTL Coding, Waveform Simulation, RTL Writing, Power Analysis, Synthesis, and Report Preparation.
+* **葉米亞 Mi-Ya,Yeh (B103015019):** Algorithm Development, RTL Coding, Waveform Simulation, RTL Writing, Power Analysis, Synthesis, and Report Preparation.
 * **蕭家妮 (B093011025):** Report Preparation, Hardware Architecture Performance Analysis, and Code Coverage Evaluation.
 
 ---
